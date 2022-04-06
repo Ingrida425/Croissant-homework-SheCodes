@@ -1,0 +1,48 @@
+:root {
+  --primary-color: #a56464;
+}
+body {
+  background-color: blanchedalmond;
+}
+h1 {
+  text-align: center;
+  color: brown;
+}
+h4 {
+  color: brown;
+  font-size: 20px;
+}
+p {
+  font-size: 20px;
+  padding: 20px 30px;
+  margin-bottom: 50px;
+}
+.navigation {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+}
+.links {
+  text-decoration: none;
+  padding: 15px 20px;
+  border: 2px solid var(--primary-color);
+  border-radius: 10px;
+  color: antiquewhite;
+  background-color: var(--primary-color);
+}
+.homepageLink {
+  display: block;
+  text-align: center;
+  margin-top: 30px;
+  font-size: 18px;
+}
+.croissant {
+  display: block;
+  margin: 0 auto;
+  padding: 30px;
+  max-width: 50%;
+  height: auto;
+}
+.bakeryMail {
+  text-align: center;
+}
