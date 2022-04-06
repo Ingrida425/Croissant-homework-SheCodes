@@ -18,13 +18,15 @@ p {
   margin-bottom: 50px;
 }
 .navigation {
-  display: block;
-  margin: 0 auto;
   text-align: center;
+  margin: 50px;
+  display: flex;
+  justify-content: center;
 }
 .links {
   text-decoration: none;
-  padding: 15px 20px;
+  padding: 10px 20px;
+  margin: 8px;
   border: 2px solid var(--primary-color);
   border-radius: 10px;
   color: antiquewhite;
